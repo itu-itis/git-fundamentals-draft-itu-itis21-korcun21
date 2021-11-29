@@ -13,3 +13,29 @@ em {
 ul {
     list-style-type: square;
 }
+
+a:hover {
+    text-decoration: none;
+}
+
+li:first-child {
+    border: thick solid green;
+    margin-bottom: lem;
+    padding: lex;
+    width: 40%;
+
+}
+
+p.centered {
+    text-align: center;
+    width: 50%;
+
+}
+
+h1 {
+    text-align: center;
+    border: thick solid red;
+    text-decoration: none;
+    padding: lex;
+    width: 50;
+}
